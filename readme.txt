@@ -1,0 +1,1 @@
+在index.html中先引入hik中的两个文件
